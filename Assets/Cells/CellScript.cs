@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+//  коммент проверим в Git
 public class CellScript : MonoBehaviour
 {
     #region events
